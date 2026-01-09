@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Activity2\Dumdum_Activity\Dumdum_Activity2\Dumdum_Activity2\bin\Debug\Dumdum_Activity2.exe.config
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Activity2\Dumdum_Activity\Dumdum_Activity2\Dumdum_Activity2\bin\Debug\Dumdum_Activity2.exe
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Activity2\Dumdum_Activity\Dumdum_Activity2\Dumdum_Activity2\bin\Debug\Dumdum_Activity2.pdb
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Activity2\Dumdum_Activity\Dumdum_Activity2\Dumdum_Activity2\obj\Debug\Dumdum_Activity2.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Activity2\Dumdum_Activity\Dumdum_Activity2\Dumdum_Activity2\obj\Debug\Dumdum_Activity2.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Activity2\Dumdum_Activity\Dumdum_Activity2\Dumdum_Activity2\obj\Debug\Dumdum_Activity2.exe
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Activity2\Dumdum_Activity\Dumdum_Activity2\Dumdum_Activity2\obj\Debug\Dumdum_Activity2.pdb
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Activity2\Dumdum_Activity\Dumdum_Activity2\Dumdum_Activity2\obj\Debug\Dumdum_Activity2.exe.config
