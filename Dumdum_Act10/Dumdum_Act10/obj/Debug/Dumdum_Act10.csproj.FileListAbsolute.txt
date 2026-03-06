@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Act10\Dumdum_Act10\bin\Debug\Dumdum_Act10.exe.config
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Act10\Dumdum_Act10\bin\Debug\Dumdum_Act10.exe
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Act10\Dumdum_Act10\bin\Debug\Dumdum_Act10.pdb
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Act10\Dumdum_Act10\obj\Debug\Dumdum_Act10.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Act10\Dumdum_Act10\obj\Debug\Dumdum_Act10.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Act10\Dumdum_Act10\obj\Debug\Dumdum_Act10.exe
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Act10\Dumdum_Act10\obj\Debug\Dumdum_Act10.pdb
+C:\Users\ACT-STUDENT\Desktop\Dumdum_Act10\Dumdum_Act10\obj\Debug\Dumdum_Act10.exe.config
